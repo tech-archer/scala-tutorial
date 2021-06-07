@@ -1,1 +1,1 @@
-# scala-tutorial
+# scala learning notes
